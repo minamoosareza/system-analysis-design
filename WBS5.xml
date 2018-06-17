@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Project xmlns="http://schemas.microsoft.com/project">
 	<SaveVersion>14</SaveVersion>
-	<Name>WBS6.xml</Name>
+	<Name>WBS7.xml</Name>
 	<Title>WBS</Title>
 	<CreationDate>2018-03-11T08:00:00</CreationDate>
-	<LastSaved>2018-06-05T00:29:00</LastSaved>
+	<LastSaved>2018-06-17T08:36:00</LastSaved>
 	<ScheduleFromStart>1</ScheduleFromStart>
 	<StartDate>2018-03-11T08:00:00</StartDate>
 	<FinishDate>2018-08-23T17:00:00</FinishDate>
@@ -44,7 +44,7 @@
 	<MoveCompletedEndsForward>0</MoveCompletedEndsForward>
 	<BaselineForEarnedValue>0</BaselineForEarnedValue>
 	<AutoAddNewResourcesAndTasks>1</AutoAddNewResourcesAndTasks>
-	<CurrentDate>2018-06-05T08:00:00</CurrentDate>
+	<CurrentDate>2018-06-17T08:00:00</CurrentDate>
 	<MicrosoftProjectServerURL>1</MicrosoftProjectServerURL>
 	<Autolink>0</Autolink>
 	<NewTaskStartDate>0</NewTaskStartDate>
@@ -384,25 +384,25 @@
 			<FinishSlack>0</FinishSlack>
 			<FixedCost>0</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
-			<PercentComplete>52</PercentComplete>
-			<PercentWorkComplete>25</PercentWorkComplete>
+			<PercentComplete>57</PercentComplete>
+			<PercentWorkComplete>28</PercentWorkComplete>
 			<Cost>27658600000</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualStart>2018-02-01T08:00:00</ActualStart>
-			<ActualDuration>PT634H3M0S</ActualDuration>
-			<ActualCost>6929000000</ActualCost>
+			<ActualDuration>PT703H27M24S</ActualDuration>
+			<ActualCost>7716200000</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualWork>PT422H30M0S</ActualWork>
+			<ActualWork>PT470H30M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT1686H30M0S</RegularWork>
-			<RemainingDuration>PT589H57M0S</RemainingDuration>
-			<RemainingCost>20729600000</RemainingCost>
-			<RemainingWork>PT1264H0M0S</RemainingWork>
+			<RemainingDuration>PT520H32M36S</RemainingDuration>
+			<RemainingCost>19942400000</RemainingCost>
+			<RemainingWork>PT1216H0M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<ACWP>6929000000.00</ACWP>
-			<CV>-6929000000.00</CV>
+			<ACWP>7716200000.00</ACWP>
+			<CV>-7716200000.00</CV>
 			<ConstraintType>0</ConstraintType>
 			<CalendarUID>-1</CalendarUID>
 			<LevelAssignments>1</LevelAssignments>
@@ -4644,25 +4644,25 @@
 			<FinishSlack>0</FinishSlack>
 			<FixedCost>0</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
-			<PercentComplete>74</PercentComplete>
-			<PercentWorkComplete>70</PercentWorkComplete>
+			<PercentComplete>91</PercentComplete>
+			<PercentWorkComplete>86</PercentWorkComplete>
 			<Cost>4854400000</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualStart>2018-05-02T08:00:00</ActualStart>
-			<ActualDuration>PT196H6M54S</ActualDuration>
-			<ActualCost>3411200000</ActualCost>
+			<ActualDuration>PT241H22M18S</ActualDuration>
+			<ActualCost>4198400000</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualWork>PT208H0M0S</ActualWork>
+			<ActualWork>PT256H0M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT296H0M0S</RegularWork>
-			<RemainingDuration>PT67H53M6S</RemainingDuration>
-			<RemainingCost>1443200000</RemainingCost>
-			<RemainingWork>PT88H0M0S</RemainingWork>
+			<RemainingDuration>PT22H37M42S</RemainingDuration>
+			<RemainingCost>656000000</RemainingCost>
+			<RemainingWork>PT40H0M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<ACWP>3411200000.00</ACWP>
-			<CV>-3411200000.00</CV>
+			<ACWP>4198400000.00</ACWP>
+			<CV>-4198400000.00</CV>
 			<ConstraintType>0</ConstraintType>
 			<CalendarUID>-1</CalendarUID>
 			<LevelAssignments>1</LevelAssignments>
@@ -5227,7 +5227,7 @@
 			<Milestone>0</Milestone>
 			<Summary>1</Summary>
 			<DisplayAsSummary>0</DisplayAsSummary>
-			<Critical>1</Critical>
+			<Critical>0</Critical>
 			<IsSubproject>0</IsSubproject>
 			<IsSubprojectReadOnly>0</IsSubprojectReadOnly>
 			<ExternalTask>0</ExternalTask>
@@ -5244,25 +5244,26 @@
 			<FinishSlack>0</FinishSlack>
 			<FixedCost>0</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
-			<PercentComplete>63</PercentComplete>
-			<PercentWorkComplete>63</PercentWorkComplete>
+			<PercentComplete>100</PercentComplete>
+			<PercentWorkComplete>100</PercentWorkComplete>
 			<Cost>2099200000</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualStart>2018-05-23T08:00:00</ActualStart>
-			<ActualDuration>PT70H0M0S</ActualDuration>
-			<ActualCost>1312000000</ActualCost>
+			<ActualFinish>2018-06-11T17:00:00</ActualFinish>
+			<ActualDuration>PT112H0M0S</ActualDuration>
+			<ActualCost>2099200000</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualWork>PT80H0M0S</ActualWork>
+			<ActualWork>PT128H0M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT128H0M0S</RegularWork>
-			<RemainingDuration>PT42H0M0S</RemainingDuration>
-			<RemainingCost>787200000</RemainingCost>
-			<RemainingWork>PT48H0M0S</RemainingWork>
+			<RemainingDuration>PT0H0M0S</RemainingDuration>
+			<RemainingCost>0</RemainingCost>
+			<RemainingWork>PT0H0M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<ACWP>1312000000.00</ACWP>
-			<CV>-1312000000.00</CV>
+			<ACWP>2099200000.00</ACWP>
+			<CV>-2099200000.00</CV>
 			<ConstraintType>0</ConstraintType>
 			<CalendarUID>-1</CalendarUID>
 			<LevelAssignments>1</LevelAssignments>
@@ -5442,7 +5443,7 @@
 			<Milestone>0</Milestone>
 			<Summary>1</Summary>
 			<DisplayAsSummary>0</DisplayAsSummary>
-			<Critical>1</Critical>
+			<Critical>0</Critical>
 			<IsSubproject>0</IsSubproject>
 			<IsSubprojectReadOnly>0</IsSubprojectReadOnly>
 			<ExternalTask>0</ExternalTask>
@@ -5459,25 +5460,26 @@
 			<FinishSlack>0</FinishSlack>
 			<FixedCost>0</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
-			<PercentComplete>50</PercentComplete>
-			<PercentWorkComplete>50</PercentWorkComplete>
+			<PercentComplete>100</PercentComplete>
+			<PercentWorkComplete>100</PercentWorkComplete>
 			<Cost>1574400000</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualStart>2018-05-28T08:00:00</ActualStart>
-			<ActualDuration>PT44H0M0S</ActualDuration>
-			<ActualCost>787200000</ActualCost>
+			<ActualFinish>2018-06-11T17:00:00</ActualFinish>
+			<ActualDuration>PT88H0M0S</ActualDuration>
+			<ActualCost>1574400000</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualWork>PT48H0M0S</ActualWork>
+			<ActualWork>PT96H0M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT96H0M0S</RegularWork>
-			<RemainingDuration>PT44H0M0S</RemainingDuration>
-			<RemainingCost>787200000</RemainingCost>
-			<RemainingWork>PT48H0M0S</RemainingWork>
+			<RemainingDuration>PT0H0M0S</RemainingDuration>
+			<RemainingCost>0</RemainingCost>
+			<RemainingWork>PT0H0M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<ACWP>787200000.00</ACWP>
-			<CV>-787200000.00</CV>
+			<ACWP>1574400000.00</ACWP>
+			<CV>-1574400000.00</CV>
 			<ConstraintType>0</ConstraintType>
 			<CalendarUID>-1</CalendarUID>
 			<LevelAssignments>1</LevelAssignments>
@@ -5631,8 +5633,8 @@
 			<ManualDuration>PT64H0M0S</ManualDuration>
 			<DurationFormat>7</DurationFormat>
 			<Work>PT64H0M0S</Work>
-			<Stop>2018-06-01T17:00:00</Stop>
-			<Resume>2018-06-04T08:00:00</Resume>
+			<Stop>2018-06-11T17:00:00</Stop>
+			<Resume>2018-06-11T17:00:00</Resume>
 			<ResumeValid>0</ResumeValid>
 			<EffortDriven>0</EffortDriven>
 			<Recurring>0</Recurring>
@@ -5641,14 +5643,14 @@
 			<Milestone>0</Milestone>
 			<Summary>0</Summary>
 			<DisplayAsSummary>0</DisplayAsSummary>
-			<Critical>1</Critical>
+			<Critical>0</Critical>
 			<IsSubproject>0</IsSubproject>
 			<IsSubprojectReadOnly>0</IsSubprojectReadOnly>
 			<ExternalTask>0</ExternalTask>
 			<EarlyStart>2018-05-31T08:00:00</EarlyStart>
 			<EarlyFinish>2018-06-11T17:00:00</EarlyFinish>
 			<LateStart>2018-05-31T08:00:00</LateStart>
-			<LateFinish>2018-06-12T08:00:00</LateFinish>
+			<LateFinish>2018-06-11T17:00:00</LateFinish>
 			<StartVariance>0</StartVariance>
 			<FinishVariance>0</FinishVariance>
 			<WorkVariance>3840000.00</WorkVariance>
@@ -5658,25 +5660,26 @@
 			<FinishSlack>0</FinishSlack>
 			<FixedCost>0</FixedCost>
 			<FixedCostAccrual>3</FixedCostAccrual>
-			<PercentComplete>25</PercentComplete>
-			<PercentWorkComplete>25</PercentWorkComplete>
+			<PercentComplete>100</PercentComplete>
+			<PercentWorkComplete>100</PercentWorkComplete>
 			<Cost>1049600000</Cost>
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<ActualStart>2018-05-31T08:00:00</ActualStart>
-			<ActualDuration>PT16H0M0S</ActualDuration>
-			<ActualCost>262400000</ActualCost>
+			<ActualFinish>2018-06-11T17:00:00</ActualFinish>
+			<ActualDuration>PT64H0M0S</ActualDuration>
+			<ActualCost>1049600000</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<ActualWork>PT16H0M0S</ActualWork>
+			<ActualWork>PT64H0M0S</ActualWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RegularWork>PT64H0M0S</RegularWork>
-			<RemainingDuration>PT48H0M0S</RemainingDuration>
-			<RemainingCost>787200000</RemainingCost>
-			<RemainingWork>PT48H0M0S</RemainingWork>
+			<RemainingDuration>PT0H0M0S</RemainingDuration>
+			<RemainingCost>0</RemainingCost>
+			<RemainingWork>PT0H0M0S</RemainingWork>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<ACWP>262400000.00</ACWP>
-			<CV>-262400000.00</CV>
+			<ACWP>1049600000.00</ACWP>
+			<CV>-1049600000.00</CV>
 			<ConstraintType>0</ConstraintType>
 			<CalendarUID>-1</CalendarUID>
 			<LevelAssignments>1</LevelAssignments>
@@ -5711,7 +5714,87 @@
 				<Type>11</Type>
 				<UID>87</UID>
 				<Start>2018-06-01T08:00:00</Start>
-				<Finish>2018-06-01T17:00:00</Finish>
+				<Finish>2018-06-02T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>12.5</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-02T08:00:00</Start>
+				<Finish>2018-06-03T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>32768</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-03T08:00:00</Start>
+				<Finish>2018-06-04T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>32768</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-04T08:00:00</Start>
+				<Finish>2018-06-05T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>12.5</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-05T08:00:00</Start>
+				<Finish>2018-06-06T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>12.5</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-06T08:00:00</Start>
+				<Finish>2018-06-07T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>12.5</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-07T08:00:00</Start>
+				<Finish>2018-06-08T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>12.5</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-08T08:00:00</Start>
+				<Finish>2018-06-09T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>12.5</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-09T08:00:00</Start>
+				<Finish>2018-06-10T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>32768</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-10T08:00:00</Start>
+				<Finish>2018-06-11T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>32768</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>11</Type>
+				<UID>87</UID>
+				<Start>2018-06-11T08:00:00</Start>
+				<Finish>2018-06-11T17:00:00</Finish>
 				<Unit>2</Unit>
 				<Value>12.5</Value>
 			</TimephasedData>
@@ -7665,11 +7748,11 @@
 			<Work>PT562H30M0S</Work>
 			<RegularWork>PT562H30M0S</RegularWork>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
-			<ActualWork>PT114H30M0S</ActualWork>
-			<RemainingWork>PT448H0M0S</RemainingWork>
+			<ActualWork>PT162H30M0S</ActualWork>
+			<RemainingWork>PT400H0M0S</RemainingWork>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<PercentWorkComplete>20</PercentWorkComplete>
+			<PercentWorkComplete>29</PercentWorkComplete>
 			<StandardRate>164000</StandardRate>
 			<StandardRateFormat>2</StandardRateFormat>
 			<Cost>9225000000</Cost>
@@ -7677,15 +7760,15 @@
 			<OvertimeRateFormat>2</OvertimeRateFormat>
 			<OvertimeCost>0</OvertimeCost>
 			<CostPerUse>0</CostPerUse>
-			<ActualCost>1877800000</ActualCost>
+			<ActualCost>2665000000</ActualCost>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
-			<RemainingCost>7347200000</RemainingCost>
+			<RemainingCost>6560000000</RemainingCost>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<WorkVariance>33750000.00</WorkVariance>
 			<CostVariance>9225000000</CostVariance>
 			<SV>0.00</SV>
-			<CV>-1877800000.00</CV>
-			<ACWP>1877800000.00</ACWP>
+			<CV>-2665000000.00</CV>
+			<ACWP>2665000000.00</ACWP>
 			<CalendarUID>4</CalendarUID>
 			<BCWS>0.00</BCWS>
 			<BCWP>0.00</BCWP>
@@ -11272,19 +11355,20 @@
 			<UID>136</UID>
 			<TaskUID>87</TaskUID>
 			<ResourceUID>2</ResourceUID>
-			<PercentWorkComplete>25</PercentWorkComplete>
-			<ActualCost>262400000</ActualCost>
+			<PercentWorkComplete>100</PercentWorkComplete>
+			<ActualCost>1049600000</ActualCost>
+			<ActualFinish>2018-06-11T17:00:00</ActualFinish>
 			<ActualOvertimeCost>0</ActualOvertimeCost>
 			<ActualOvertimeWork>PT0H0M0S</ActualOvertimeWork>
 			<ActualStart>2018-05-31T08:00:00</ActualStart>
-			<ActualWork>PT16H0M0S</ActualWork>
-			<ACWP>262400000.00</ACWP>
+			<ActualWork>PT64H0M0S</ActualWork>
+			<ACWP>1049600000.00</ACWP>
 			<Confirmed>0</Confirmed>
 			<Cost>1049600000</Cost>
 			<CostRateTable>0</CostRateTable>
 			<RateScale>0</RateScale>
 			<CostVariance>1049600000</CostVariance>
-			<CV>-262400000.00</CV>
+			<CV>-1049600000.00</CV>
 			<Delay>0</Delay>
 			<Finish>2018-06-11T17:00:00</Finish>
 			<FinishVariance>0</FinishVariance>
@@ -11299,14 +11383,14 @@
 			<OvertimeCost>0</OvertimeCost>
 			<OvertimeWork>PT0H0M0S</OvertimeWork>
 			<RegularWork>PT64H0M0S</RegularWork>
-			<RemainingCost>787200000</RemainingCost>
+			<RemainingCost>0</RemainingCost>
 			<RemainingOvertimeCost>0</RemainingOvertimeCost>
 			<RemainingOvertimeWork>PT0H0M0S</RemainingOvertimeWork>
-			<RemainingWork>PT48H0M0S</RemainingWork>
+			<RemainingWork>PT0H0M0S</RemainingWork>
 			<ResponsePending>0</ResponsePending>
 			<Start>2018-05-31T08:00:00</Start>
-			<Stop>2018-06-01T17:00:00</Stop>
-			<Resume>2018-06-04T08:00:00</Resume>
+			<Stop>2018-06-11T17:00:00</Stop>
+			<Resume>2018-06-11T17:00:00</Resume>
 			<StartVariance>0</StartVariance>
 			<Units>1</Units>
 			<UpdateNeeded>0</UpdateNeeded>
@@ -11320,70 +11404,6 @@
 			<BudgetCost>0</BudgetCost>
 			<BudgetWork>PT0H0M0S</BudgetWork>
 			<TimephasedData>
-				<Type>1</Type>
-				<UID>136</UID>
-				<Start>2018-06-04T08:00:00</Start>
-				<Finish>2018-06-05T08:00:00</Finish>
-				<Unit>2</Unit>
-				<Value>PT8H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>136</UID>
-				<Start>2018-06-05T08:00:00</Start>
-				<Finish>2018-06-06T08:00:00</Finish>
-				<Unit>2</Unit>
-				<Value>PT8H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>136</UID>
-				<Start>2018-06-06T08:00:00</Start>
-				<Finish>2018-06-07T08:00:00</Finish>
-				<Unit>2</Unit>
-				<Value>PT8H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>136</UID>
-				<Start>2018-06-07T08:00:00</Start>
-				<Finish>2018-06-08T08:00:00</Finish>
-				<Unit>2</Unit>
-				<Value>PT8H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>136</UID>
-				<Start>2018-06-08T08:00:00</Start>
-				<Finish>2018-06-09T08:00:00</Finish>
-				<Unit>2</Unit>
-				<Value>PT8H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>136</UID>
-				<Start>2018-06-09T08:00:00</Start>
-				<Finish>2018-06-10T08:00:00</Finish>
-				<Unit>2</Unit>
-				<Value></Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>136</UID>
-				<Start>2018-06-10T08:00:00</Start>
-				<Finish>2018-06-11T08:00:00</Finish>
-				<Unit>2</Unit>
-				<Value></Value>
-			</TimephasedData>
-			<TimephasedData>
-				<Type>1</Type>
-				<UID>136</UID>
-				<Start>2018-06-11T08:00:00</Start>
-				<Finish>2018-06-11T17:00:00</Finish>
-				<Unit>2</Unit>
-				<Value>PT8H0M0S</Value>
-			</TimephasedData>
-			<TimephasedData>
 				<Type>2</Type>
 				<UID>136</UID>
 				<Start>2018-05-31T08:00:00</Start>
@@ -11395,7 +11415,87 @@
 				<Type>2</Type>
 				<UID>136</UID>
 				<Start>2018-06-01T08:00:00</Start>
-				<Finish>2018-06-01T17:00:00</Finish>
+				<Finish>2018-06-02T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>PT8H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-02T08:00:00</Start>
+				<Finish>2018-06-03T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value></Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-03T08:00:00</Start>
+				<Finish>2018-06-04T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value></Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-04T08:00:00</Start>
+				<Finish>2018-06-05T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>PT8H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-05T08:00:00</Start>
+				<Finish>2018-06-06T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>PT8H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-06T08:00:00</Start>
+				<Finish>2018-06-07T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>PT8H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-07T08:00:00</Start>
+				<Finish>2018-06-08T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>PT8H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-08T08:00:00</Start>
+				<Finish>2018-06-09T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value>PT8H0M0S</Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-09T08:00:00</Start>
+				<Finish>2018-06-10T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value></Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-10T08:00:00</Start>
+				<Finish>2018-06-11T08:00:00</Finish>
+				<Unit>2</Unit>
+				<Value></Value>
+			</TimephasedData>
+			<TimephasedData>
+				<Type>2</Type>
+				<UID>136</UID>
+				<Start>2018-06-11T08:00:00</Start>
+				<Finish>2018-06-11T17:00:00</Finish>
 				<Unit>2</Unit>
 				<Value>PT8H0M0S</Value>
 			</TimephasedData>
